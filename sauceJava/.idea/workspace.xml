@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7ca2ad0-58c1-4344-81a5-8d41189e6465" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/test/Scenario1.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2q142u9KBKmUDBFksuR6UUr7G9W" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG./Users/stefanstoyanov/Desktop/EndavaUITasks/testng.xml.executor": "Debug",
+    "TestNG./Users/stefanstoyanov/Documents/Git/SkilloHomework/AutomationCourse/RoadToSuccess/testng.xml.executor": "Run",
+    "TestNG.BaseTest.ivo.executor": "Run",
+    "TestNG.ChangingProfilePicture.ChangeProfilePicture.executor": "Run",
+    "TestNG.ChangingProfilePictureTest.ChangeProfilePicture.executor": "Run",
+    "TestNG.CreatingPost.UploadingPictureTest.executor": "Run",
+    "TestNG.DeletePost.deletePost.executor": "Run",
+    "TestNG.LoginAndOut.loginAndOut.executor": "Run",
+    "TestNG.LoginInvalidPassword.LoginWithInvalidPassword.executor": "Run",
+    "TestNG.LoginInvalidUsername.loginWithInvalidUsername.executor": "Run",
+    "TestNG.LoginSuccess.signInWithValidCredentials.executor": "Run",
+    "TestNG.LoginTest.signInWithValidCredentials.executor": "Debug",
+    "TestNG.RegistartionTest.successfulRegistration.executor": "Run",
+    "TestNG.Scenario1.executor": "Run",
+    "TestNG.Scenario1.signInWithValidCredentials.executor": "Run",
+    "TestNG.Scenario1.testScenario1.executor": "Run",
+    "TestNG.Scenario2.testScenario2.executor": "Run",
+    "TestNG.ScreenshotCapture.screenshotCapture.executor": "Run",
+    "TestNG.loginT.executor": "Run",
+    "TestNG.loginT.signInWithValidCredentials.executor": "Run",
+    "TestNG.registartionT.executor": "Run",
+    "TestNG.registartionT.successfulRegistration.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/stefanstoyanov/Desktop/EndavaUITasks",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="base" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Scenario1.testScenario1">
+    <configuration name="BaseTest.ivo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RoadToSuccess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gui.base" />
+      <option name="MAIN_CLASS_NAME" value="gui.base.BaseTest" />
+      <option name="METHOD_NAME" value="ivo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RoadToSuccess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Scenario1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario1.testScenario1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RoadToSuccess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.Scenario1" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Scenario1" />
+      <option name="METHOD_NAME" value="testScenario1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario2.testScenario2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RoadToSuccess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.Scenario1" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Scenario2" />
+      <option name="METHOD_NAME" value="testScenario2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/stefanstoyanov/Desktop/EndavaUITasks/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RoadToSuccess" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Scenario1.testScenario1" />
+        <item itemvalue="TestNG.Scenario1" />
+        <item itemvalue="TestNG./Users/stefanstoyanov/Desktop/EndavaUITasks/testng.xml" />
+        <item itemvalue="TestNG.Scenario2.testScenario2" />
+        <item itemvalue="TestNG.BaseTest.ivo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7ca2ad0-58c1-4344-81a5-8d41189e6465" name="Changes" comment="" />
+      <created>1733816544512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733816544512</updated>
+    </task>
+    <servers />
+  </component>
+</project>
